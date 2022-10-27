@@ -28,17 +28,18 @@ I am currently a final-year M.S. candidate in Computer Science from [ShanghaiTec
 
 ## Research Experience
 
-- <p style="text-align:left;"><b>Few-shot Personalized Regression</b><span style="float:right;">Sep. 2022 - Present</span></p>
+- <p style="text-align:left;"><b>Few-shot Personalized Regression</b><span style="float:right;"></span></p>
   We focus on the few-shot meta learning problem of personalized regression. In our method, the sample-specific model is supported by inter-task meta-knowledge and intra-task sample correlations. An end-to-end learning framework is proposed to perform feature extraction and personalized modeling for each meta task. 
   
-- <p style="text-align:left;"><b>Grouped Multi-task Learning</b><span style="float:right;">Jun. 2022 - Present</span></p>
+- <p style="text-align:left;"><b>Grouped Multi-task Learning</b><span style="float:right;"></span></p>
   We perform multi-task learning under the assumption that different tasks form several clusters, each of which consists of similar tasks. Specifically, the underlying task group structure is captured by applying subspace clustering to parameter learning, as well as exploiting the impact of hidden tasks in the MTL paradigm.
   
-- <p style="text-align:left;"><b>Multi-task Personalized Learning</b><span style="float:right;">Mar. 2021 - Sep. 2022</span></p>
+- <p style="text-align:left;"><b>Multi-task Personalized Learning</b><span style="float:right;"></span></p>
   We perform personalized learning in the multi-task scenarios, which enables to save both homogeneity and heterogeneity of samples. We develop efficient alternating algorithms achieving SOTA results under 6 multi-task benchmarks. The relevant papers are one accepted by IJCAI22 and one under review at AISTATS23.
 
 ## Awards and Honors
 
+- ShanghaiTech University Postgraduate A-Level Scholarship (Top 1%)
 - ShanghaiTech University Outstanding Student Mentor
 - National Undergraduate Electronics Design Contest, 2nd prize
 - National Science Competition on Energy Conservation & Emission Reduction for College Students, 3rd prize
@@ -46,5 +47,5 @@ I am currently a final-year M.S. candidate in Computer Science from [ShanghaiTec
 
 ## Services
 
-- **Teaching Assistant**:  CS282, Machine Learning, 2021-22 Spring, ShanghaiTech
+- **Teaching Assistant**:  CS282, Machine Learning (PG), 2021-22 Spring, ShanghaiTech
 - **Student Mentor**:  Mentor for the undergraduate students, ShanghaiTech 
